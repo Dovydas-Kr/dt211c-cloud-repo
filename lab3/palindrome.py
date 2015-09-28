@@ -1,6 +1,6 @@
+# Program that checks if a string is palindrome.
 import string
 
-# Program that checks if a string is palindrome.
 word = raw_input("Enter a string: ")
 
 word1 = word.lower()
